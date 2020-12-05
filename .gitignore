@@ -1,3 +1,5 @@
 /target
 *.swp
+*.swo
+*.swn
 **/input.txt
